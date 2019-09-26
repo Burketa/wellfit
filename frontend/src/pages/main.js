@@ -4,7 +4,7 @@ import api from '../services/api';
 
 export default class Main extends Component {
   static navigationOptions = {
-    title: 'Le App',
+    title: 'Wellfit',
   };
 
   state = {

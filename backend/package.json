@@ -18,10 +18,11 @@
     "nodemon": "^1.19.2"
   },
   "dependencies": {
-    "express": "*",
+    "body-parser": "^1.15.0",
     "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "*",
     "mongoose": "^5.7.1",
-    "mongoose-paginate": "^5.0.3",
-    "body-parser": "^1.15.0"
+    "mongoose-paginate": "^5.0.3"
   }
 }
